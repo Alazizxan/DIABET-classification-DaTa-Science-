@@ -17,7 +17,7 @@
 
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alazizxan/HAUSE_PRICE_TASHKENT)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alazizxan/DIABET-classification-DaTa-Science-)
 
 
 ## Files Included

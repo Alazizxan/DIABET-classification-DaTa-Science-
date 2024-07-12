@@ -21,8 +21,8 @@
 
 
 ## Files Included
-- `housing_data.csv`: Dataset containing housing information.
-- `TASHKENT_home.ipynb`: Jupyter notebook with complete code and explanations.
+- `.csv`: Dataset containing housing information.
+- `.ipynb`: Jupyter notebook with complete code and explanations.
 
 
 ## 🔍 Dataset Features
